@@ -1,0 +1,136 @@
+"","sampleID","algae","metabolite","replicate","time","time2","algae_present","exudates_present"
+"BC1-10","BC1-10","none","none",1,10,"10",FALSE,FALSE
+"BC1-6","BC1-6","none","none",1,6,"6",FALSE,FALSE
+"BC1-8","BC1-8","none","none",1,8,"8",FALSE,FALSE
+"BC2-10","BC2-10","none","none",2,10,"10",FALSE,FALSE
+"BC2-6","BC2-6","none","none",2,6,"6",FALSE,FALSE
+"BC2-8","BC2-8","none","none",2,8,"8",FALSE,FALSE
+"BC3-10","BC3-10","none","none",3,10,"10",FALSE,FALSE
+"BC3-6","BC3-6","none","none",3,6,"6",FALSE,FALSE
+"BC3-8","BC3-8","none","none",3,8,"8",FALSE,FALSE
+"BC4-10","BC4-10","none","none",4,10,"10",FALSE,FALSE
+"BC4-6","BC4-6","none","none",4,6,"6",FALSE,FALSE
+"BC4-8","BC4-8","none","none",4,8,"8",FALSE,FALSE
+"BC5-10","BC5-10","none","none",5,10,"10",FALSE,FALSE
+"BC5-6","BC5-6","none","none",5,6,"6",FALSE,FALSE
+"BC5-8","BC5-8","none","none",5,8,"8",FALSE,FALSE
+"BH1-10","BH1-10","none","4hydroxybenzoic_acid",1,10,"10",FALSE,FALSE
+"BH1-6","BH1-6","none","4hydroxybenzoic_acid",1,6,"6",FALSE,FALSE
+"BH1-8","BH1-8","none","4hydroxybenzoic_acid",1,8,"8",FALSE,FALSE
+"BH2-10","BH2-10","none","4hydroxybenzoic_acid",2,10,"10",FALSE,FALSE
+"BH2-6","BH2-6","none","4hydroxybenzoic_acid",2,6,"6",FALSE,FALSE
+"BH2-8","BH2-8","none","4hydroxybenzoic_acid",2,8,"8",FALSE,FALSE
+"BH3-10","BH3-10","none","4hydroxybenzoic_acid",3,10,"10",FALSE,FALSE
+"BH3-6","BH3-6","none","4hydroxybenzoic_acid",3,6,"6",FALSE,FALSE
+"BH3-8","BH3-8","none","4hydroxybenzoic_acid",3,8,"8",FALSE,FALSE
+"BH4-10","BH4-10","none","4hydroxybenzoic_acid",4,10,"10",FALSE,FALSE
+"BH4-6","BH4-6","none","4hydroxybenzoic_acid",4,6,"6",FALSE,FALSE
+"BH4-8","BH4-8","none","4hydroxybenzoic_acid",4,8,"8",FALSE,FALSE
+"BH5-10","BH5-10","none","4hydroxybenzoic_acid",5,10,"10",FALSE,FALSE
+"BH5-6","BH5-6","none","4hydroxybenzoic_acid",5,6,"6",FALSE,FALSE
+"BH5-8","BH5-8","none","4hydroxybenzoic_acid",5,8,"8",FALSE,FALSE
+"BL1-10","BL1-10","none","lumichrome",1,10,"10",FALSE,FALSE
+"BL1-6","BL1-6","none","lumichrome",1,6,"6",FALSE,FALSE
+"BL1-8","BL1-8","none","lumichrome",1,8,"8",FALSE,FALSE
+"BL2-10","BL2-10","none","lumichrome",2,10,"10",FALSE,FALSE
+"BL2-6","BL2-6","none","lumichrome",2,6,"6",FALSE,FALSE
+"BL2-8","BL2-8","none","lumichrome",2,8,"8",FALSE,FALSE
+"BL3-10","BL3-10","none","lumichrome",3,10,"10",FALSE,FALSE
+"BL3-6","BL3-6","none","lumichrome",3,6,"6",FALSE,FALSE
+"BL3-8","BL3-8","none","lumichrome",3,8,"8",FALSE,FALSE
+"BL4-10","BL4-10","none","lumichrome",4,10,"10",FALSE,FALSE
+"BL4-6","BL4-6","none","lumichrome",4,6,"6",FALSE,FALSE
+"BL4-8","BL4-8","none","lumichrome",4,8,"8",FALSE,FALSE
+"BL5-10","BL5-10","none","lumichrome",5,10,"10",FALSE,FALSE
+"BL5-6","BL5-6","none","lumichrome",5,6,"6",FALSE,FALSE
+"BL5-8","BL5-8","none","lumichrome",5,8,"8",FALSE,FALSE
+"PC1-10","PC1-10","Phaeodactylum","none",1,10,"10",TRUE,TRUE
+"PC1-6","PC1-6","Phaeodactylum","none",1,6,"6",TRUE,TRUE
+"PC1-8","PC1-8","Phaeodactylum","none",1,8,"8",TRUE,TRUE
+"PC2-10","PC2-10","Phaeodactylum","none",2,10,"10",TRUE,TRUE
+"PC2-6","PC2-6","Phaeodactylum","none",2,6,"6",TRUE,TRUE
+"PC2-8","PC2-8","Phaeodactylum","none",2,8,"8",TRUE,TRUE
+"PC3-10","PC3-10","Phaeodactylum","none",3,10,"10",TRUE,TRUE
+"PC3-6","PC3-6","Phaeodactylum","none",3,6,"6",TRUE,TRUE
+"PC3-8","PC3-8","Phaeodactylum","none",3,8,"8",TRUE,TRUE
+"PC4-10","PC4-10","Phaeodactylum","none",4,10,"10",TRUE,TRUE
+"PC4-6","PC4-6","Phaeodactylum","none",4,6,"6",TRUE,TRUE
+"PC4-8","PC4-8","Phaeodactylum","none",4,8,"8",TRUE,TRUE
+"PC5-10","PC5-10","Phaeodactylum","none",5,10,"10",TRUE,TRUE
+"PC5-6","PC5-6","Phaeodactylum","none",5,6,"6",TRUE,TRUE
+"PC5-8","PC5-8","Phaeodactylum","none",5,8,"8",TRUE,TRUE
+"PH1-10","PH1-10","Phaeodactylum","4hydroxybenzoic_acid",1,10,"10",TRUE,TRUE
+"PH1-6","PH1-6","Phaeodactylum","4hydroxybenzoic_acid",1,6,"6",TRUE,TRUE
+"PH1-8","PH1-8","Phaeodactylum","4hydroxybenzoic_acid",1,8,"8",TRUE,TRUE
+"PH2-10","PH2-10","Phaeodactylum","4hydroxybenzoic_acid",2,10,"10",TRUE,TRUE
+"PH2-6","PH2-6","Phaeodactylum","4hydroxybenzoic_acid",2,6,"6",TRUE,TRUE
+"PH2-8","PH2-8","Phaeodactylum","4hydroxybenzoic_acid",2,8,"8",TRUE,TRUE
+"PH3-10","PH3-10","Phaeodactylum","4hydroxybenzoic_acid",3,10,"10",TRUE,TRUE
+"PH3-6","PH3-6","Phaeodactylum","4hydroxybenzoic_acid",3,6,"6",TRUE,TRUE
+"PH3-8","PH3-8","Phaeodactylum","4hydroxybenzoic_acid",3,8,"8",TRUE,TRUE
+"PH4-10","PH4-10","Phaeodactylum","4hydroxybenzoic_acid",4,10,"10",TRUE,TRUE
+"PH4-6","PH4-6","Phaeodactylum","4hydroxybenzoic_acid",4,6,"6",TRUE,TRUE
+"PH4-8","PH4-8","Phaeodactylum","4hydroxybenzoic_acid",4,8,"8",TRUE,TRUE
+"PH5-10","PH5-10","Phaeodactylum","4hydroxybenzoic_acid",5,10,"10",TRUE,TRUE
+"PH5-6","PH5-6","Phaeodactylum","4hydroxybenzoic_acid",5,6,"6",TRUE,TRUE
+"PH5-8","PH5-8","Phaeodactylum","4hydroxybenzoic_acid",5,8,"8",TRUE,TRUE
+"PL1-10","PL1-10","Phaeodactylum","lumichrome",1,10,"10",TRUE,TRUE
+"PL1-6","PL1-6","Phaeodactylum","lumichrome",1,6,"6",TRUE,TRUE
+"PL1-8","PL1-8","Phaeodactylum","lumichrome",1,8,"8",TRUE,TRUE
+"PL2-10","PL2-10","Phaeodactylum","lumichrome",2,10,"10",TRUE,TRUE
+"PL2-6","PL2-6","Phaeodactylum","lumichrome",2,6,"6",TRUE,TRUE
+"PL2-8","PL2-8","Phaeodactylum","lumichrome",2,8,"8",TRUE,TRUE
+"PL3-10","PL3-10","Phaeodactylum","lumichrome",3,10,"10",TRUE,TRUE
+"PL3-6","PL3-6","Phaeodactylum","lumichrome",3,6,"6",TRUE,TRUE
+"PL3-8","PL3-8","Phaeodactylum","lumichrome",3,8,"8",TRUE,TRUE
+"PL4-10","PL4-10","Phaeodactylum","lumichrome",4,10,"10",TRUE,TRUE
+"PL4-6","PL4-6","Phaeodactylum","lumichrome",4,6,"6",TRUE,TRUE
+"PL4-8","PL4-8","Phaeodactylum","lumichrome",4,8,"8",TRUE,TRUE
+"PL5-10","PL5-10","Phaeodactylum","lumichrome",5,10,"10",TRUE,TRUE
+"PL5-6","PL5-6","Phaeodactylum","lumichrome",5,6,"6",TRUE,TRUE
+"PL5-8","PL5-8","Phaeodactylum","lumichrome",5,8,"8",TRUE,TRUE
+"SC1-10","SC1-10","Phaeodactylum spent medium","none",1,10,"10",FALSE,TRUE
+"SC1-6","SC1-6","Phaeodactylum spent medium","none",1,6,"6",FALSE,TRUE
+"SC1-8","SC1-8","Phaeodactylum spent medium","none",1,8,"8",FALSE,TRUE
+"SC2-10","SC2-10","Phaeodactylum spent medium","none",2,10,"10",FALSE,TRUE
+"SC2-6","SC2-6","Phaeodactylum spent medium","none",2,6,"6",FALSE,TRUE
+"SC2-8","SC2-8","Phaeodactylum spent medium","none",2,8,"8",FALSE,TRUE
+"SC3-10","SC3-10","Phaeodactylum spent medium","none",3,10,"10",FALSE,TRUE
+"SC3-6","SC3-6","Phaeodactylum spent medium","none",3,6,"6",FALSE,TRUE
+"SC3-8","SC3-8","Phaeodactylum spent medium","none",3,8,"8",FALSE,TRUE
+"SC4-10","SC4-10","Phaeodactylum spent medium","none",4,10,"10",FALSE,TRUE
+"SC4-6","SC4-6","Phaeodactylum spent medium","none",4,6,"6",FALSE,TRUE
+"SC4-8","SC4-8","Phaeodactylum spent medium","none",4,8,"8",FALSE,TRUE
+"SC5-10","SC5-10","Phaeodactylum spent medium","none",5,10,"10",FALSE,TRUE
+"SC5-6","SC5-6","Phaeodactylum spent medium","none",5,6,"6",FALSE,TRUE
+"SC5-8","SC5-8","Phaeodactylum spent medium","none",5,8,"8",FALSE,TRUE
+"SH1-10","SH1-10","Phaeodactylum spent medium","4hydroxybenzoic_acid",1,10,"10",FALSE,TRUE
+"SH1-6","SH1-6","Phaeodactylum spent medium","4hydroxybenzoic_acid",1,6,"6",FALSE,TRUE
+"SH1-8","SH1-8","Phaeodactylum spent medium","4hydroxybenzoic_acid",1,8,"8",FALSE,TRUE
+"SH2-10","SH2-10","Phaeodactylum spent medium","4hydroxybenzoic_acid",2,10,"10",FALSE,TRUE
+"SH2-6","SH2-6","Phaeodactylum spent medium","4hydroxybenzoic_acid",2,6,"6",FALSE,TRUE
+"SH2-8","SH2-8","Phaeodactylum spent medium","4hydroxybenzoic_acid",2,8,"8",FALSE,TRUE
+"SH3-10","SH3-10","Phaeodactylum spent medium","4hydroxybenzoic_acid",3,10,"10",FALSE,TRUE
+"SH3-6","SH3-6","Phaeodactylum spent medium","4hydroxybenzoic_acid",3,6,"6",FALSE,TRUE
+"SH3-8","SH3-8","Phaeodactylum spent medium","4hydroxybenzoic_acid",3,8,"8",FALSE,TRUE
+"SH4-10","SH4-10","Phaeodactylum spent medium","4hydroxybenzoic_acid",4,10,"10",FALSE,TRUE
+"SH4-6","SH4-6","Phaeodactylum spent medium","4hydroxybenzoic_acid",4,6,"6",FALSE,TRUE
+"SH4-8","SH4-8","Phaeodactylum spent medium","4hydroxybenzoic_acid",4,8,"8",FALSE,TRUE
+"SH5-10","SH5-10","Phaeodactylum spent medium","4hydroxybenzoic_acid",5,10,"10",FALSE,TRUE
+"SH5-6","SH5-6","Phaeodactylum spent medium","4hydroxybenzoic_acid",5,6,"6",FALSE,TRUE
+"SH5-8","SH5-8","Phaeodactylum spent medium","4hydroxybenzoic_acid",5,8,"8",FALSE,TRUE
+"SL1-10","SL1-10","Phaeodactylum spent medium","lumichrome",1,10,"10",FALSE,TRUE
+"SL1-6","SL1-6","Phaeodactylum spent medium","lumichrome",1,6,"6",FALSE,TRUE
+"SL1-8","SL1-8","Phaeodactylum spent medium","lumichrome",1,8,"8",FALSE,TRUE
+"SL2-10","SL2-10","Phaeodactylum spent medium","lumichrome",2,10,"10",FALSE,TRUE
+"SL2-6","SL2-6","Phaeodactylum spent medium","lumichrome",2,6,"6",FALSE,TRUE
+"SL2-8","SL2-8","Phaeodactylum spent medium","lumichrome",2,8,"8",FALSE,TRUE
+"SL3-10","SL3-10","Phaeodactylum spent medium","lumichrome",3,10,"10",FALSE,TRUE
+"SL3-6","SL3-6","Phaeodactylum spent medium","lumichrome",3,6,"6",FALSE,TRUE
+"SL3-8","SL3-8","Phaeodactylum spent medium","lumichrome",3,8,"8",FALSE,TRUE
+"SL4-10","SL4-10","Phaeodactylum spent medium","lumichrome",4,10,"10",FALSE,TRUE
+"SL4-6","SL4-6","Phaeodactylum spent medium","lumichrome",4,6,"6",FALSE,TRUE
+"SL4-8","SL4-8","Phaeodactylum spent medium","lumichrome",4,8,"8",FALSE,TRUE
+"SL5-10","SL5-10","Phaeodactylum spent medium","lumichrome",5,10,"10",FALSE,TRUE
+"SL5-6","SL5-6","Phaeodactylum spent medium","lumichrome",5,6,"6",FALSE,TRUE
+"SL5-8","SL5-8","Phaeodactylum spent medium","lumichrome",5,8,"8",FALSE,TRUE

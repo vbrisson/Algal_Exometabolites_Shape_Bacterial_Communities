@@ -1,0 +1,65 @@
+,Row.names,PStoP,LFC.PStoP,PtoC,LFC.PtoC,PStoC,LFC.PStoC,means,Kingdom,Phylum,Class,Order,Family,Genus,RDPGenus,Species,Label
+ASV1,ASV1,TRUE,-0.85811167,TRUE,0.791510132,FALSE,-0.040981672,0.246405144,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Marinobacteraceae,Marinobacter,Marinobacter,ASV1,Marinobacter
+ASV10,ASV10,TRUE,-0.369818387,TRUE,0.954235432,TRUE,0.610036911,0.033076765,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Seohaeicola,Seohaeicola,ASV10,Seohaeicola
+ASV12,ASV12,FALSE,-0.039704219,TRUE,-1.377725996,TRUE,-1.391810349,0.0416609,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Hyphomonadaceae,Oceanicaulis,Oceanicaulis,ASV12,Oceanicaulis
+ASV13,ASV13,TRUE,-0.129034911,TRUE,-0.717852709,TRUE,-0.821267754,0.036103038,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,NA,NA,ASV13,[family: Rhodobacteraceae]
+ASV14,ASV14,FALSE,-0.055148871,TRUE,2.698327012,TRUE,2.668798007,0.02125515,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Alcanivoracaceae1,Alcanivorax,Alcanivorax,ASV14,Alcanivorax
+ASV15,ASV15,TRUE,-0.562913717,TRUE,0.744506492,TRUE,0.207212641,0.022108482,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseovarius,Roseovarius,ASV15,Roseovarius
+ASV16,ASV16,TRUE,-0.85181815,TRUE,2.795554222,TRUE,1.969355938,0.017165895,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Burkholderiaceae,Limnobacter,Limnobacter,ASV16,Limnobacter
+ASV17,ASV17,TRUE,-2.316860915,TRUE,3.087083043,TRUE,0.795841994,0.014631615,Bacteria,Desulfobacterota,Desulfuromonadia,Bradymonadales,NA,NA,Bradymonas,ASV17,Bradymonas
+ASV18,ASV18,TRUE,-1.66380918,TRUE,-1.489996108,TRUE,-3.128185422,0.008935923,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Devosiaceae,Devosia,Devosia,ASV18,Devosia
+ASV19,ASV19,TRUE,0.356247167,TRUE,-0.899212111,TRUE,-0.517345078,0.012890581,Bacteria,Proteobacteria,Alphaproteobacteria,Sphingomonadales,Sphingomonadaceae,Altererythrobacter,Erythrobacter,ASV19,Erythrobacter (Altererythrobacter)
+ASV20,ASV20,TRUE,-0.37794889,TRUE,0.472946019,TRUE,0.120616996,0.006069067,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseovarius,Roseovarius,ASV20,Roseovarius
+ASV21,ASV21,TRUE,0.492496412,TRUE,-0.453710011,FALSE,0.064406267,0.010198582,Bacteria,Bacteroidota,Rhodothermia,Balneolales,Balneolaceae,Balneola,Balneola,ASV21,Balneola
+ASV22,ASV22,FALSE,0.027099533,FALSE,-0.002031429,FALSE,0.05068797,0.007015283,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Marivita,Marivita,ASV22,Marivita
+ASV23,ASV23,TRUE,-2.2619925,TRUE,0.757319203,TRUE,-1.47905343,0.003341708,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Thalassospiraceae,Thalassospira,Thalassospira,ASV23,Thalassospira
+ASV25,ASV25,TRUE,0.157398315,FALSE,0.099892541,TRUE,0.282910722,0.004569722,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Nioella,NA,ASV25,Nioella
+ASV26,ASV26,TRUE,-0.604018767,TRUE,0.558244794,FALSE,-0.020154107,0.002921299,Bacteria,Proteobacteria,Alphaproteobacteria,Thalassobaculales,Thalassobaculaceae,Thalassobaculum,Thalassobaculum,ASV26,Thalassobaculum
+ASV27,ASV27,TRUE,-1.42572663,TRUE,2.077135881,TRUE,0.677029117,0.002572222,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Stappiaceae,Labrenzia,Roseibium,ASV27,Roseibium (Labrenzia) 
+ASV28,ASV28,TRUE,0.145221709,TRUE,-0.756057352,TRUE,-0.585215777,0.004942801,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Hoeflea,Hoeflea,ASV28,Hoeflea
+ASV29,ASV29,TRUE,0.541745137,TRUE,-0.240443093,TRUE,0.32692191,0.003968752,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Roseitalea,NA,ASV29,Roseitalea
+ASV3,ASV3,TRUE,-0.83961567,TRUE,0.630533761,TRUE,-0.183462043,0.149406942,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Marinobacteraceae,Marinobacter,Marinobacter,ASV3,Marinobacter
+ASV30,ASV30,TRUE,-0.928988543,TRUE,-0.146146847,TRUE,-1.049515524,0.002013727,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Muricauda,Muricauda,ASV30,Muricauda
+ASV31,ASV31,TRUE,0.4671651,TRUE,-0.799743861,TRUE,-0.306958895,0.003882304,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Hyphomonadaceae,Oceanicaulis,Oceanicaulis,ASV31,Oceanicaulis
+ASV32,ASV32,TRUE,1.706153849,TRUE,-1.122547225,TRUE,0.60922649,0.004461339,Bacteria,Proteobacteria,Alphaproteobacteria,Caulobacterales,Hyphomonadaceae,Maricaulis,Maricaulis,ASV32,Maricaulis
+ASV33,ASV33,NA,NA,TRUE,2.163659752,TRUE,2.607517878,0.001258167,Bacteria,Proteobacteria,Gammaproteobacteria,Burkholderiales,Alcaligenaceae,Pusillimonas,Pusillimonas,ASV33,Pusillimonas
+ASV34,ASV34,TRUE,-2.077073376,TRUE,-0.476776731,TRUE,-2.528230241,0.001287355,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Flavobacteriaceae,Arenibacter,Arenibacter,ASV34,Arenibacter
+ASV35,ASV35,FALSE,-0.005776765,TRUE,-1.590759609,TRUE,-1.570916508,0.00220245,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Roseibacterium,Aliiroseovarius,ASV35,Aliiroseovarius (Roseibacterium)
+ASV37,ASV37,TRUE,-0.195965507,TRUE,0.746753615,TRUE,0.576407974,0.001139076,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Pseudohongiellaceae,Pseudohongiella,Pseudohongiella,ASV37,Pseudohongiella
+ASV38,ASV38,TRUE,-1.334065918,NA,NA,TRUE,-1.627939487,0.000604644,Bacteria,Bacteroidota,Bacteroidia,Chitinophagales,Saprospiraceae,NA,Phaeodactylibacter,ASV38,Phaeodactylibacter
+ASV39,ASV39,TRUE,0.546339264,TRUE,1.009556604,TRUE,1.581515734,0.000700874,Bacteria,Proteobacteria,Alphaproteobacteria,Parvibaculales,Parvibaculaceae,Pyruvatibacter,Pyruvatibacter,ASV39,Pyruvatibacter
+ASV40,ASV40,NA,NA,NA,NA,NA,NA,0.000510433,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,Algoriphagus,Algoriphagus,ASV40,Algoriphagus
+ASV41,ASV41,NA,NA,TRUE,1.574244534,TRUE,1.97567047,0.00047654,Bacteria,Proteobacteria,Alphaproteobacteria,Parvibaculales,Parvibaculaceae,Mf105b01,NA,ASV41,Mf105b01 [family: Parvibaculaceae]
+ASV42,ASV42,TRUE,-0.698357758,TRUE,-0.965143616,TRUE,-1.637881507,0.000468686,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,NA,NA,ASV42,[family: Rhizobiaceae]
+ASV43,ASV43,FALSE,-0.118834315,FALSE,0.156525154,FALSE,0.063310706,0.00042703,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Phocaeicola,ASV43,Phocaeicola (Bacteroides)
+ASV44,ASV44,NA,NA,TRUE,0.816508987,TRUE,1.153071252,0.00019714,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Magnetospiraceae,Magnetospira,NA,ASV44,Magnetospira
+ASV45,ASV45,FALSE,0.054843112,FALSE,-0.179605988,FALSE,-0.09914301,0.000217595,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,Faecalibacterium,ASV45,Faecalibacterium
+ASV46,ASV46,FALSE,0.140793728,FALSE,-0.249155057,FALSE,-0.082741463,0.00026708,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,Faecalibacterium,ASV46,Faecalibacterium
+ASV47,ASV47,TRUE,0.947678841,TRUE,-1.032982714,NA,NA,0.000475207,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella_9,Prevotella,ASV47,Prevotella
+ASV48,ASV48,TRUE,0.46287812,TRUE,-0.982754737,TRUE,-0.49425675,0.000307872,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Cohaesibacter,NA,ASV48,Cohaesibacter
+ASV49,ASV49,TRUE,0.561453885,FALSE,-0.370289436,NA,NA,0.000215737,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Phocaeicola,ASV49,Phocaeicola (Bacteroides)
+ASV5,ASV5,TRUE,0.589370847,TRUE,-1.382457582,TRUE,-0.767466869,0.132872026,Bacteria,Bacteroidota,Bacteroidia,Flavobacteriales,Cryomorphaceae,NA,NA,ASV5,[family: Cryomorphaceae]
+ASV50,ASV50,TRUE,0.01880729,TRUE,0.580593246,TRUE,0.625020402,0.000133778,Bacteria,Proteobacteria,Gammaproteobacteria,Pseudomonadales,Moraxellaceae,Acinetobacter,Acinetobacter,ASV50,Acinetobacter
+ASV51,ASV51,FALSE,0.194668774,FALSE,-0.180114904,FALSE,0.040173736,0.000150968,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,Blautia,ASV51,Blautia
+ASV52,ASV52,FALSE,0.193266585,NA,NA,NA,NA,0.000198583,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Agathobacter,Agathobacter,ASV52,Agathobacter
+ASV53,ASV53,TRUE,-0.094701098,NA,NA,TRUE,-0.388574667,0.000120111,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Donghicola,NA,ASV53,Donghicola
+ASV54,ASV54,NA,NA,NA,NA,NA,NA,0.00012742,Bacteria,Firmicutes,Bacilli,Lactobacillales,Lactobacillaceae,Lactobacillus,Lactobacillus,ASV54,Lactobacillus
+ASV55,ASV55,TRUE,0.470199797,TRUE,-0.452977837,NA,NA,0.000181406,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Faecalibacterium,Faecalibacterium,ASV55,Faecalibacterium
+ASV57,ASV57,TRUE,-0.109388817,TRUE,0.051708159,FALSE,-0.032060792,0.000105772,Bacteria,Bacteroidota,Bacteroidia,Sphingobacteriales,NS11-12 marine group,NA,NA,ASV57,[family: NS11-12 marine group]
+ASV58,ASV58,NA,NA,NA,NA,NA,NA,0.000144435,Bacteria,Firmicutes,Clostridia,Oscillospirales,Ruminococcaceae,Subdoligranulum,Faecalibacterium,ASV58,Faecalibacterium (Subdoligranulum)
+ASV59,ASV59,TRUE,0.008527177,TRUE,-0.073903149,FALSE,-0.039756106,9.29E-05,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides,ASV59,Bacteroides
+ASV6,ASV6,TRUE,-0.852066294,TRUE,0.440920879,TRUE,-0.385525549,0.057506545,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Stappiaceae,Labrenzia,Roseibium,ASV6,Roseibium (Labrenzia) 
+ASV60,ASV60,TRUE,0.539955715,TRUE,-0.621747571,NA,NA,0.000148647,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides,ASV60,Bacteroides
+ASV61,ASV61,NA,NA,FALSE,-0.143756963,TRUE,0.287245747,0.000106023,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides,ASV61,Bacteroides
+ASV62,ASV62,NA,NA,NA,NA,NA,NA,0.000124862,Bacteria,Proteobacteria,Gammaproteobacteria,Enterobacterales,Enterobacteriaceae,Escherichia-Shigella,Escherichia/Shigella,ASV62,Escherichia-Shigella
+ASV63,ASV63,TRUE,0.543487335,TRUE,-0.552038371,NA,NA,0.000130196,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella_9,Prevotella,ASV63,Prevotella
+ASV65,ASV65,NA,NA,NA,NA,NA,NA,8.94E-05,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Roseburia,Roseburia,ASV65,Roseburia
+ASV66,ASV66,NA,NA,FALSE,-0.240589315,TRUE,0.275148898,0.000121092,Bacteria,Verrucomicrobiota,Verrucomicrobiae,Verrucomicrobiales,Akkermansiaceae,Akkermansia,Akkermansia,ASV66,Akkermansia
+ASV69,ASV69,NA,NA,NA,NA,FALSE,0.110849187,8.12E-05,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Bacteroidaceae,Bacteroides,Bacteroides,ASV69,Bacteroides
+ASV7,ASV7,TRUE,-1.549054758,TRUE,0.99540735,TRUE,-0.528027542,0.047589483,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodospirillales,Thalassospiraceae,Thalassospira,Thalassospira,ASV7,Thalassospira
+ASV70,ASV70,NA,NA,TRUE,0.217198099,TRUE,0.553760364,7.45E-05,Bacteria,Proteobacteria,Alphaproteobacteria,Rhizobiales,Rhizobiaceae,Pseudohoeflea,Pseudohoeflea,ASV70,Pseudohoeflea
+ASV71,ASV71,NA,NA,NA,NA,NA,NA,8.53E-05,Bacteria,Firmicutes,Clostridia,Lachnospirales,Lachnospiraceae,Blautia,Blautia,ASV71,Blautia
+ASV74,ASV74,NA,NA,NA,NA,NA,NA,8.98E-05,Bacteria,Bacteroidota,Bacteroidia,Bacteroidales,Prevotellaceae,Prevotella_9,Prevotella,ASV74,Prevotella
+ASV79,ASV79,NA,NA,NA,NA,NA,NA,6.85E-05,Bacteria,Proteobacteria,Alphaproteobacteria,Rhodobacterales,Rhodobacteraceae,Rhodobaculum,Pararhodobacter,ASV79,Pararhodobacter (Rhodobaculum)
+ASV8,ASV8,TRUE,1.119229475,TRUE,1.016285537,TRUE,2.161134879,0.035825453,Bacteria,Proteobacteria,Gammaproteobacteria,Nitrosococcales,Methylophagaceae,Methylophaga,Methylophaga,ASV8,Methylophaga
+ASV9,ASV9,TRUE,-0.381023285,TRUE,-1.877288716,TRUE,-2.232692135,0.053478487,Bacteria,Bacteroidota,Bacteroidia,Cytophagales,Cyclobacteriaceae,Algoriphagus,Algoriphagus,ASV9,Algoriphagus
